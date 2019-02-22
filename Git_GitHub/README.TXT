@@ -28,12 +28,12 @@ Nous allons constriure unsite web de vente et location de voitures. Pour les bes
              - changer de police et mettre en couleur 
              - changer la couleur et le format au survol du curseur
              
-
-
 8eme etape : ajout de date en bas
              - deplacer la date en haut
              
-9eme etape : transformer "SieAuto" en lien
+9eme etape : transformer "SiteAuto" en lien
+
+10eme etape : dernieres retouches de "README.TXT" et de la page HTML
 
 
 
